@@ -1,0 +1,13 @@
+body{
+    padding: 100px;
+}
+.submit-box {
+    margin-top: 48px;
+    border: 0px solid gray;
+    padding: 40px;
+    border-radius: 25px;
+}
+#transaction-area{
+    display: none;
+
+}
